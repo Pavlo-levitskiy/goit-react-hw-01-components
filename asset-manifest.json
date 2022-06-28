@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pavlo-levitskiy/goit-react-hw-01-components.git/static/css/main.d3368a7f.css",
-    "main.js": "/Pavlo-levitskiy/goit-react-hw-01-components.git/static/js/main.dd55b418.js",
-    "index.html": "/Pavlo-levitskiy/goit-react-hw-01-components.git/index.html",
-    "main.d3368a7f.css.map": "/Pavlo-levitskiy/goit-react-hw-01-components.git/static/css/main.d3368a7f.css.map",
-    "main.dd55b418.js.map": "/Pavlo-levitskiy/goit-react-hw-01-components.git/static/js/main.dd55b418.js.map"
+    "main.css": "/Pavlo-levitskiy/goit-react-hw-01-components/static/css/main.d3368a7f.css",
+    "main.js": "/Pavlo-levitskiy/goit-react-hw-01-components/static/js/main.9b8d6949.js",
+    "index.html": "/Pavlo-levitskiy/goit-react-hw-01-components/index.html",
+    "main.d3368a7f.css.map": "/Pavlo-levitskiy/goit-react-hw-01-components/static/css/main.d3368a7f.css.map",
+    "main.9b8d6949.js.map": "/Pavlo-levitskiy/goit-react-hw-01-components/static/js/main.9b8d6949.js.map"
   },
   "entrypoints": [
     "static/css/main.d3368a7f.css",
-    "static/js/main.dd55b418.js"
+    "static/js/main.9b8d6949.js"
   ]
 }

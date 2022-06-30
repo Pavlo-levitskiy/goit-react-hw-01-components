@@ -10,7 +10,7 @@ import { TransactionHistory }  from '../TransactionHistory/transactionHistory';
 
 const { username, tag, location, avatar, stats } = user;
 
-const App = () => {
+export const App = () => {
   return (
     <>
       <Profile

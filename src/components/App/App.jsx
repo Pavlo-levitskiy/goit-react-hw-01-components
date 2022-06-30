@@ -1,11 +1,12 @@
-import Profile from '../Profile/Profile';
 import user from '../../data/user.json';
 import statistics from '../../data/statistics.json';
-import Statistics from '../Statistics/statistics';
-import {FriendList} from '../FriendList/FriendList';
 import friends from '../../data/friends.json';
-import TransactionHistory from '../TransactionHistory/transactionHistory';
 import transactions from '../../data/transactions.json';
+import Profile from '../Profile/Profile';
+import Statistics from '../Statistics/statistics';
+import { FriendList } from 'components/FriendList/FriendList';
+import TransactionHistory from '../TransactionHistory/transactionHistory';
+
 
 const { username, tag, location, avatar, stats } = user;
 

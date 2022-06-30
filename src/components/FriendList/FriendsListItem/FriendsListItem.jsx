@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
-import styles from '../FriendListItem/FriendListItem.module.css';
+import styles from './FriendsListItem.module.css';
 
-export const FriendListItem = ({ name, avatar, isOnline}) => {
+ export const FriendsListItem = ({ name, avatar, isOnline}) => {
     return ( 
         <li className={styles.item}>
             <span className={styles.status}
@@ -16,8 +16,10 @@ export const FriendListItem = ({ name, avatar, isOnline}) => {
     )
 }
 
-FriendListItem.propTypes = {
+FriendsListItem.propTypes = {
     name: PropTypes.string.isRequired,
     avatar: PropTypes.string.isRequired,
     isOnline: PropTypes.bool.isRequired
 }
+
+export default FriendsListItem;

@@ -5,7 +5,7 @@ import transactions from '../../data/transactions.json';
 import { Profile } from '../Profile/Profile';
 import { Statistics } from '../Statistics/statistics';
 import { FriendList } from '../FriendList/FriendList';
-import { TransactionHistory }  from '../TransactionHistory/transactionHistory';
+import { TransactionHistory } from '../TransactionHistory/transactionHistory';
 
 
 const { username, tag, location, avatar, stats } = user;
